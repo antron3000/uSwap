@@ -57,7 +57,4 @@ module.exports = {
 	      // ...other Workbox options...
 	    },
     },
-		publicPath: process.env.NODE_ENV === 'production'
-    ? '/uSwap/'
-    : '/'
 }
