@@ -15,7 +15,7 @@ Read and Edit on remix.ethereum.org
 Compile on etherscan.io
 - Copy the contract and paste it here
 - https://etherscan.io/vyper
-- Select the right compiler version
+- Select compiler version 0.1.0b17
 - Save the bytecode and ABI for each contract
 
 ##
