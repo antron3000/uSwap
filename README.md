@@ -17,6 +17,7 @@ Compile on etherscan.io
 - https://etherscan.io/vyper
 - Select compiler version 0.1.0b17
 - Save the bytecode and ABI for each contract
+- You can skip this step if you don't need to edit the contracts.
 
 ##
 Get metamask (metamask.io)
