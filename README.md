@@ -2,28 +2,28 @@
 # How to deploy the Vyper contracts
 
 There is more than one way to deploy vyper contracts.
-It's easiest to use a deploy script, but since I haven't written one yet, 
+It's easiest to use a deploy script, but since I haven't written one yet,
 This is how I did it.
-###
+##
 Read and Edit on remix.ethereum.org
 - Get contract code.
 - Copy the two contracts into remix as .vy viles
 - Edit on remix
 
 
-###
+##
 Compile on etherscan.io
 - Copy the contract and paste it here
 - https://etherscan.io/vyper
 - Select the right compiler version
 - Save the bytecode and ABI for each contract
 
-###
+##
 Get metamask (metamask.io)
 - Get some Ether (or tesnet Ether)
 
 
-###
+##
 Deploy on myetherwallet.com
 - Connect to myetherwallet with metamask
 - Go to deploy contract
