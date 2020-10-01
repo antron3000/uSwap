@@ -55,3 +55,30 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+# How to deploy the contracts
+
+###
+- Get contract code.
+- Copy the two contracts into remix as .vy viles
+- Edit on remix
+
+
+###
+Compile on etherscan
+- Copy the contract and paste it here
+- https://etherscan.io/vyper
+- Select the right compiler version
+- Save the bytecode and ABI for each contract
+
+###
+Get metamask
+- Get some Ether (or tesnet Ether)
+
+
+###
+Deploy on myetherwallet
+- Connect to myetherwallet with metamask
+- Go to deploy contract
+- Deploy contract using bytecode and ABI
+- put in other parameters
